@@ -1,0 +1,19 @@
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+  }
+  
+  li {
+    display: inline;
+  }
+
+  h1 {
+    text-shadow: 2px 2px #AFB3B8;
+    text-align: center;
+  }
+  
+  #grad{
+      background-image: linear-gradient(direction, color-stop1, color-stop2,);
+  }
